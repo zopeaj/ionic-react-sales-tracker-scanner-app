@@ -1,0 +1,1 @@
+# ionic-react-sales-tracker-scanner-app
